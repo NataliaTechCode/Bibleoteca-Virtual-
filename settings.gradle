@@ -1,0 +1,2 @@
+rootProject.name = "proyecto_bibleoteca_2"
+include ':app'
